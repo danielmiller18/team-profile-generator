@@ -38,3 +38,5 @@ check all syntax and spelling before use to avoid errors. As well as making sure
 
 
 ![team-profile](assets/teamprofile.PNG)
+
+[Walkthrough Video](https://watch.screencastify.com/v/cfgHDd9GpUwB2k0YfUFL)
