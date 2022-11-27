@@ -37,4 +37,4 @@ check all syntax and spelling before use to avoid errors. As well as making sure
 
 
 
-![team-profile](assets/Capture.PNG)
+![team-profile](assets/teamprofile.PNG)
